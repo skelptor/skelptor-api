@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_blog_section_sections",
+  "info": {
+    "displayName": "section",
+    "icon": "grid",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "text",
+        "media"
+      ]
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "media": {
+      "type": "string"
+    }
+  }
+}
